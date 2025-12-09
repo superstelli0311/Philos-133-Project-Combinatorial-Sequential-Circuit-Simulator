@@ -1,4 +1,4 @@
-This is a Pygame that allows you to build your own sequential or combinatorial circuit:
+This is a Pygame that allows you to build your own sequential or combinatorial circuit:  
 User Guide:
   1)  *Left click* on toolbar to spawn logic gate blocks
   2)  *Left click and drag* block to move it
