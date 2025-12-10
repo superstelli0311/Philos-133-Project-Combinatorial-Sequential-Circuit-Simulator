@@ -1,11 +1,11 @@
 This is a Pygame that allows you to build your own sequential or combinatorial circuit:  
 
-Installation Guide:
+***Installation Guide***:
   1) download and unzip **CircuitSimulator.zip**
   2) run exe file
       * if warning of malware appears, go to **System Settings** -> **Privacy and Security** -> **Security** -> and select **Allow Anyway**
 
-User Guide:
+***User Guide***:
   1)  *left click* on toolbar to spawn logic gate blocks
   2)  *left click and drag* block to move it
   3)  *left click and drag* wire from output ports to input ports to connect blocks
