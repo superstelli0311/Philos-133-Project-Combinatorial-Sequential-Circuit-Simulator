@@ -19,4 +19,5 @@ This is a Pygame that allows you to build your own sequential or combinatorial c
       * least significant bit goes throught the circuit first
       * least significant bit gets outputed first
       * when input is exhausted, it is defaulted to 0 
-      
+
+  A demonstration of usage is shown in Computational Theory of Mind.docx, which explores the Computational Theory of Mind through visual perception and sequential circuits.
